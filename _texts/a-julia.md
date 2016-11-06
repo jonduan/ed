@@ -7,6 +7,10 @@ source: Ciudad Seva
 
 <p class="citation"> by {{ page.author }}</p>
 
+
+$$\beta$$
+
+
 - Ya las gentes murmuran que yo soy tu enemiga
 - porque dicen que en verso doy al mundo mi yo.
 
